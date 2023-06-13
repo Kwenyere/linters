@@ -1,1 +1,1 @@
-const h1 = document.querySelector(h1);
+const main = document.querySelector(h1);
